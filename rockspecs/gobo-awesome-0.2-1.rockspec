@@ -1,17 +1,9 @@
--- This file was automatically generated for the LuaDist project.
-
 package = "gobo-awesome"
-version = "0.1-1"
--- LuaDist source
+version = "0.2-1"
 source = {
-  tag = "0.1-1",
-  url = "git://github.com/LuaDist-testing/gobo-awesome.git"
+   url = "git+https://github.com/gobolinux/gobo-awesome.git",
+   tag = "0.2"
 }
--- Original source
--- source = {
---    url = "git+https://github.com/gobolinux/gobo-awesome.git",
---    tag = "0.1",
--- }
 description = {
    summary = "Awesome WM utilities for GoboLinux.",
    detailed = "Awesome WM utilities for GoboLinux.",
